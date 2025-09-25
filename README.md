@@ -25,6 +25,13 @@ A dual-purpose script that:
 
 ## Requirements
 
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Or install manually:
 ```bash
 pip install numpy matplotlib
 ```
